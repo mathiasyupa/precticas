@@ -1,0 +1,38 @@
+* {
+    font-family: cursive;
+    display: inline;
+}
+body {
+    background-color: gray;
+}
+h1 {
+    display: block;
+}
+
+.imagen {
+ width: 500;
+
+}
+div {
+    display: block;
+    background-color: #A6ACAF ;
+    position: absolute;
+}
+.vamos {
+    width: 800;
+    height: 600;
+    margin: 50px auto;
+    position: relative;
+}
+
+.vamos__h1 {
+   border: 10px solid #566573;
+   top: 0;
+   margin: 30px;
+}
+.imagen {
+    border: 10px solid #566573;
+}
+.p {
+    border: 10px solid #566573;
+}
